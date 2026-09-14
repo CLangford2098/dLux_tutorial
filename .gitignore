@@ -217,5 +217,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-#VSCode Settings
-.vscode
+# Ignore all Visual Studio Code configuration files
+.vscode/
+*.code-workspace
